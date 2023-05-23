@@ -1,0 +1,32 @@
+.img-responsive{
+    height: 300px;
+    width: 300px;
+}
+.picture2 {
+    display: none;
+}
+
+.thumbnail:hover .picture1 {
+    display: none;
+}
+.thumbnail:hover .picture2 {
+    display: block;
+}
+
+.topcontainer{
+    background-color: red;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn{
+    border: none;
+}
+.index2image{
+    height: 300px;
+    width: 300px;
+
+}
+.bit{
+    font-size: 400px;
+}
